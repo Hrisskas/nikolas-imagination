@@ -11,3 +11,8 @@
 
 /* Keep the portrait-format parrot artwork fully visible in its gallery card. */
 .card-one>img{object-fit:contain;padding:18px}.card-one:hover>img{transform:none}
+
+
+/* Keep every original artwork fully visible in its gallery card. */
+.art-card>img{object-fit:contain;padding:18px}
+.art-card:hover>img{transform:none}
